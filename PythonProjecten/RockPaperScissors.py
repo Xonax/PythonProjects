@@ -1,4 +1,4 @@
-from glob import glob
+#MADE BY LUCAS
 import random
 
 print('1.Best out of 3')
